@@ -1,0 +1,2 @@
+add_lunch_combo aosp_fajita-userdebug
+add_lunch_combo aosp_fajita-eng
